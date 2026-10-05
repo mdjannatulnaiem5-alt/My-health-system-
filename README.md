@@ -18,3 +18,10 @@ Max sensor
    10. Spleen – Filters your blood and helps fight off infections.
    11. Skin – The largest organ of your body, protecting everything on the inside. 
 
+
+International Organizations in Medical Science (Medical/Medicine)
+• World Health Organization (WHO): The largest international health organization under the United Nations. It works on determining global health policies, controlling epidemics, and ensuring worldwide health protection.
+• World Medical Association (WMA): An independent international organization of physicians worldwide. It primarily focuses on medical ethics, professional conduct of physicians, and setting global standards for medical education.
+• International Federation of Medical Students' Associations (IFMSA): One of the world's oldest and largest student-led organizations, which connects medical students internationally to work on health awareness and medical education.
+• Centers for Disease Control and Prevention (CDC) / European CDC: Although these belong to specific regions (such as
+
