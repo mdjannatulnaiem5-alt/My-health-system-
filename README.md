@@ -2,10 +2,14 @@
 My health system architecture 
 I was create 11 organ tracking system for my future time 
 
-Max sensor 
+Max30100 sensor 
 
-
-
+USDA stander food FAO 
+DDF
+QEF
+BCF
+SAF
+use ordinary different equations 
    1. Brain – The control center of your nervous system.
    2. Heart – Pumps blood through your circulatory system to deliver oxygen.
    3. Lungs – Allow you to breathe by taking in oxygen and removing carbon dioxide.
